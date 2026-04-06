@@ -1,0 +1,11 @@
+Day 1: I installed Jupyter and ran my first Python code. The f-string trick reminded me of DAX string formatting. GitHub account: created.
+
+Day 2: The if/elif/else logic is identical to SQL CASE WHEN. The enumerate() function is like ROW_NUMBER() in SQL. List comprehensions look strange but are just a compact loop.
+
+Day 3: A Python function is the same concept as a DAX measure — define once, call anywhere. The default parameter syntax is cleaner than DAX. Tomorrow: dictionaries.
+
+Day 4: A Python dict is a VLOOKUP table. The GROUP BY equivalent is building a dict inside a loop. The retail dataset has 541911 rows and columns: 'Invoice', 'StockCode', 'Description', 'Quantity', 'InvoiceDate', 'Price', 'Customer ID', 'Country'.
+
+Day 5: A class bundles data + functions. When sklearn says XGBClassifier(), it's the same pattern as SalesReport(). __init__ sets up the object. Methods are functions that belong to the class.
+
+Day 6: I built a complete data pipeline using only Python basics from the last 5 days. It processes 50,000 rows and groups/classifies them. This is the same logic Power BI does — just explicit and transparent
