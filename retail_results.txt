@@ -1,0 +1,26 @@
+RETAIL REVENUE ANALYSIS BY COUNTRY
+==================================================
+
+United Kingdom       Rev: £  863,270.01  Orders: 46164  🔥 High
+Germany              Rev: £   19,217.27  Orders:   741  ⚠️  Low
+France               Rev: £   12,985.60  Orders:   600  ⚠️  Low
+EIRE                 Rev: £   10,033.26  Orders:   374  ⚠️  Low
+Netherlands          Rev: £    8,784.48  Orders:    72  ⚠️  Low
+Australia            Rev: £    8,187.23  Orders:    80  ⚠️  Low
+Japan                Rev: £    7,705.07  Orders:    65  ⚠️  Low
+Sweden               Rev: £    4,381.86  Orders:    39  ⚠️  Low
+Norway               Rev: £    3,787.12  Orders:   147  ⚠️  Low
+Spain                Rev: £    2,982.40  Orders:   173  ⚠️  Low
+Portugal             Rev: £    2,853.65  Orders:   133  ⚠️  Low
+Belgium              Rev: £    1,809.91  Orders:    95  ⚠️  Low
+Lithuania            Rev: £    1,661.06  Orders:    35  ⚠️  Low
+Cyprus               Rev: £    1,590.82  Orders:    83  ⚠️  Low
+Switzerland          Rev: £    1,304.92  Orders:    49  ⚠️  Low
+Denmark              Rev: £    1,281.50  Orders:    20  ⚠️  Low
+Finland              Rev: £      892.80  Orders:    17  ⚠️  Low
+Italy                Rev: £      811.50  Orders:    40  ⚠️  Low
+Iceland              Rev: £      711.79  Orders:    31  ⚠️  Low
+Channel Islands      Rev: £      363.53  Orders:    17  ⚠️  Low
+Austria              Rev: £      277.20  Orders:     8  ⚠️  Low
+Poland               Rev: £      248.16  Orders:     8  ⚠️  Low
+Bahrain              Rev: £      205.74  Orders:     1  ⚠️  Low
